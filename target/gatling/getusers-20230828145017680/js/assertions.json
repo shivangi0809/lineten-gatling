@@ -1,0 +1,10 @@
+{
+  "simulation": "Linetenapi.GetUsers",
+  "simulationId": "getusers",
+  "start": 1693234217680,
+  "description": "",
+  "scenarios": ["Get api"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "Linetenapi.AddUser",
+  "simulationId": "adduser",
+  "start": 1693235099311,
+  "description": "ADD USER",
+  "scenarios": ["createuser"],
+  "assertions": [
+
+  ]
+}
